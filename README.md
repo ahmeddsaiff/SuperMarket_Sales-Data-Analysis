@@ -56,7 +56,8 @@ Sales Data: The primary dataset used for this analysis is the "Capstone Data - S
 In the initial data preparation phase, we performed the following tasks:
 1. Data loading and inspection.
 2. Handling missing values.
-3. Data cleaning and formatting. 
+3. Data cleaning and formatting.
+   - [Notebook Link](https://colab.research.google.com/drive/1kCtWKUT-MPDfjBswwqpJFilfOS-S7Cy_#scrollTo=FSWrpT_0RKJW)
 
 ## Exploratory Data Analysis
 exploring the sales data to answer key questions, such as:
