@@ -1,0 +1,6 @@
+Final Project Requirements:
+- Full Data Wrangling notebook using Python or R
+- Data Wrangling Report (Document)
+- Paginated Report using Power BI
+- Business Insights Report (Document)
+- Upload the Project to GitHub and write the suitable README file
