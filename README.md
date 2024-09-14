@@ -29,7 +29,7 @@ This data analysis project aims to provide insights into the sales performance o
 
 
 ### Revenue by Day Page
-![Revenue by Day Page](https://github.com/user-attachments/assets/be30930a-4c10-407a-bb49-2e63ee72afef)
+![Screenshot 2024-09-14 172547](https://github.com/user-attachments/assets/99825062-28e5-4a5b-96b4-9f98af85abab)
 
 
 ### Revenue by Day Page with Visualization Tooltip
