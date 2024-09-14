@@ -4,7 +4,7 @@
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
 - [Tools Used](#tools-used)
-- [Data Cleaning/Preparation - using Python](#data-cleaning/preparation---using-python)
+- [Data Cleaning/Preparation using Python](#data-cleaning/preparation-using-python)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Results and Findings](#results-and-findings)
 - [Limitations](#limitations)
@@ -52,7 +52,7 @@ Sales Data: The primary dataset used for this analysis is the "Capstone Data - S
 - PowerBi : Data Visualization 
     - [Download the tool](https://www.microsoft.com/en-us/download/details.aspx?id=58494) 
 
-## Data Cleaning/Preparation - using Python
+## Data Cleaning/Preparation using Python
 In the initial data preparation phase, we performed the following tasks:
 1. Data loading and inspection.
 2. Handling missing values.
